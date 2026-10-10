@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca6daef33daa63a47a829e4777c56ab4, type: 3}
+  m_Name: Fog
+  m_EditorClassIdentifier: Assembly-CSharp::WeatherPreset
+  m_name: Rain
+  m_intensity: 1
+  m_fogDensity: 5
+  m_windMultiplier: 1
